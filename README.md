@@ -23,20 +23,20 @@ We publish hours, offerings and contact paths clearly so customers know what to 
 
 ---
 
-## What drives us
+## Our promise
 
-Etranscription is a auto detailing built around real neighbors in Chicago. We'd rather do fewer things well than overwhelm you with noise.
+At Etranscription, great auto detailing shouldn't require guesswork. We publish hours, prices, and policies so your visit starts with confidence.
 
-- Curated offerings over endless catalogs
-- Human replies instead of auto-responses
-- Seasonal updates that actually change
-- A front door that's easy to find
+- Transparent menus and service lists
+- Staff who explain options without pressure
+- Quality that holds up visit after visit
+- Follow-through when something needs fixing
 
 ---
 
-## Looking ahead
+## The long view
 
-Expand what Etranscription does best while keeping the same welcome — evolving with automotive trends without losing our local voice.
+Become the auto detailing benchmark in Chicago — known for craft, accessibility, and a brand identity that feels unmistakably Etranscription.
 
 ---
 
@@ -75,91 +75,6 @@ Expand what Etranscription does best while keeping the same welcome — evolving
 
 ---
 
-
-# Featured Categories
-
-| Category | Description |
-|----------|-------------|
-| **New Arrivals** | Latest additions to our auto detailing catalog |
-| **Best Sellers** | Customer favorites and most-requested options |
-| **Standard Package** | Most popular option |
-| **Packages Starter** | Intro session / visit |
-| **Essentials** | Everyday foundations of the brand |
-| **Premium** | Elevated selections for special occasions |
-| **Support** | Guidance, sizing help and aftercare |
-| **Visit / Book** | Hours, appointments and walk-in options |
-
-
----
-
-# Brand Style
-
-### Seasonal Rotation
-
-Fresh highlights without resetting the whole catalog.
-
-### Workday Ready
-
-Practical choices that still look intentional.
-
-### Modern Everyday
-
-Clean, comfortable options for daily life.
-
-### Signature Edit
-
-Distinctive pieces that define the brand look.
-
----
-
-# Why Choose Etranscription?
-
-### Built to return
-
-Consistency matters more than one flashy launch.
-
-### Local roots
-
-Based in Chicago with a team you can meet in person.
-
-### Craft first
-
-We invest in the work behind the counter, not filler marketing.
-
-### Built to return
-
-Consistency matters more than one flashy launch.
----
-
-# What the website includes
-
-- Responsive layout tuned for mobile
-- Clear **Packages** with prices
-- Visit page with map and hours
-- Contact form — stay on site, no redirects
-- Policies and support desk email
-
----
-
-# Brand Identity
-
-**Industry:** Auto Detailing (Automotive)  
-**Location:** Chicago, IL  
-**Audience:** Customers looking for reliable, accessible auto detailing.
-
----
-
-# Repository
-
-Public profile + website assets for **Etranscription**.
-
-```text
-etranscription/
-├── README.md
-└── etranscription.github.io/
-```
-
----
 
 # Customer Support
 
